@@ -1,10 +1,2 @@
-<html>
-  <body>
-    <ol>
-  this is an ordered list
-  </ol>
-  <ul>
-  this is an unordered list
-  </ul>
-  </body>
-  </html>
+* We can create ordered lists 
+* We can create unordered lists also
